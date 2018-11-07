@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">animalSound</string>
+    <string name="title_activity_animals">Animals</string>
+    <string name="button_text_jump">Go</string>
+    <string name="text_animal_dog">Dog</string>
+    <string name="text_animal_cat">Cat</string>
+    <string name="text_animal_pig">Pig</string>
+    <string name="text_animal_hen">Hen</string>
+</resources>
